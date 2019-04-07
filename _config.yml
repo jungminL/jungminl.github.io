@@ -84,8 +84,3 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-<<<<<<< HEAD
-rohanchandra/type-theme
-=======
-remote theme : rohanchandra/type-theme
->>>>>>> 92828df56e33775b0670cb98031f35b9a602a0d7
