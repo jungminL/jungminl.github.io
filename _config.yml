@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/type-theme"
-url: "https://rohanchandra.github.io/"
+baseurl: ""
+url: "https://jungminl.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -83,3 +83,5 @@ theme: jekyll-theme-type
 exclude:
   - Gemfile
   - Gemfile.lock
+
+remote_theme : rohanchandra/type-theme
