@@ -23,13 +23,13 @@ theme_settings:
   # Icons
   rss: false
   email_address: # Full email address, e.g. "sam@example.com"
-  behance:
+  behance: "JungMinL"
   bitbucket:
   dribbble:
   facebook:
   flickr:
   gitlab:
-  github: "rohanchandra/type-theme"
+  github: "jungminL/jungminl.github.io"
   google_plus:
   instagram:
   linkedin:  # Full URL
