@@ -20,16 +20,16 @@ theme_settings:
   # Icons
   rss: false
   email_address: # Full email address, e.g. "sam@example.com"
-  behance: "JungMinL"
   bitbucket:
   dribbble:
   facebook:
   flickr:
   gitlab:
   github: "jungminL/jungminl.github.io"
+  behance: "JungMinL"
   google_plus:
   instagram:
-  linkedin: "https://www.linkedin.com/in/jung-min/" # Full URL
+  linkedin: "https://www.linkedin.com/in/jung-min/" target="_blank"# Full URL
   pinterest:
   reddit:
   soundcloud:
