@@ -23,13 +23,14 @@ html {
 }
 body {
   color: $text-color;
+  line-height: 1.8;
   font-family: $font-family-main;
   font-size: $font-size;
   word-wrap: break-word;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: $font-family-headings;
-  line-height: 1.8;
+  line-height: 1.5;
   margin: 0.67em 0;
   a {
     color: $text-color;
