@@ -12,9 +12,9 @@ theme_settings:
   description: "A website with blog posts and pages" # used by search engines
 
   # Header and footer text
-  header_text: "<p>Hello, World!</p>"
+  header_text: "<p>under construction</p>"
   header_text_feature_image:
-  footer_text: "<p>©2019</p>"
+  footer_text: "<p>© 2019</p>"
   # Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 
   # Icons
