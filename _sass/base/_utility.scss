@@ -27,9 +27,9 @@ a.button {
 }
 .button-link {
   &:hover {
-    background: $link-color;
-    border: 1px solid $link-color;
-    color: $background-color;
+    background: #000000;
+    border: 1px solid #000000;
+    color: #FFFFFF;
     text-decoration: none;
   }
 }
