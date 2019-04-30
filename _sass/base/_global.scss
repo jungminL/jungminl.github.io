@@ -17,9 +17,13 @@ html {
 // Typography
 ::selection {
   background: $selection-color;
+  color: #FFF;
+  text-shadow: none;
 }
 ::-moz-selection {
   background: $selection-color;
+  color: #FFF;
+  text-shadow: none;
 }
 body {
   color: $text-color;
