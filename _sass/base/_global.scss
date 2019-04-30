@@ -25,11 +25,12 @@ body {
   color: $text-color;
   font-family: $font-family-main;
   font-size: 18px;
+  line-height: 180%
   word-wrap: break-word;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: $font-family-headings;
-  line-height: 30px;
+  line-height: 1.3em;
   margin: 0.67em 0;
   a {
     color: $text-color;
@@ -50,7 +51,7 @@ h4 {
 //인용부호 라인/컬러/인용범위여백
 blockquote {
   border-left: .25rem solid lightgray;
-  color: darkgray;
+  color: #878d97;
   margin: .8rem 0 1rem 0;
   padding: .5rem 1rem;
 }
