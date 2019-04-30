@@ -53,9 +53,12 @@ h6 {
   font-size: 0.8em;
 }
 blockquote {
-    border-left: 2px solid;
-    padding: 1em 1em;
+  border-left: .25rem solid lightgray;
+  color: #878d97;
+  margin: .8rem 0 1rem 0;
+  padding: .5rem 1rem;
 }
+
 blockquote p:last-child,
 footer p:last-child {
   margin-bottom: 0;
