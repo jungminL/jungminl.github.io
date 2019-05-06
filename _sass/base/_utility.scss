@@ -17,8 +17,8 @@
 // Buttons
 .button {
   border-radius: 0.3em;
-  border: 1px solid #000000;
-  color: #000000;
+  border: 1px solid #0000ff;
+  color: #0000ff;
   display: inline-block;
   margin: 1em 0;
   padding: 0.5em 0.75em;
@@ -28,8 +28,8 @@ a.button {
 }
 .button-link {
   &:hover {
-    background: $black;
-    border: 1px solid $black;
+    background: #0000ff;
+    border: 1px solid #0000ff;
     color: $white;
     text-decoration: none;
   }
